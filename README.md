@@ -1,1 +1,1 @@
-App works on TCP 5000 port.
+ssdsApp works on TCP 5000 port.
